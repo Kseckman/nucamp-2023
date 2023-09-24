@@ -16,4 +16,4 @@ const CamspiteDetailPage = () => {
     )
 };
 
-export default CamspiteDetailPage
+export default CamspiteDetailPage;
