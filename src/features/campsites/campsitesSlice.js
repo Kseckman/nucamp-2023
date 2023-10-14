@@ -10,4 +10,4 @@ export const selectCampsiteById = (id) => {
 
 export const selectFeaturedCampsite = () => {
     return CAMPSITES.find((campsite) => campsite.featured);
-}
+};
